@@ -3,6 +3,9 @@
 ### Pré-requisitos
 - Node.js v18.x ou superior  
   [Baixe aqui](https://nodejs.org/)
+- TypeScript instalado globalmente  
+  ```bash
+  npm install -g typescript
 
 ### Instalação das dependências
 
@@ -19,5 +22,5 @@ tsc
 ### Execução do sistema
 
 ```bash
-node js/app.js
+node src/js/app/app.js
 ```
