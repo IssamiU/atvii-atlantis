@@ -1,7 +1,7 @@
 ## atvii-atlantis
 
 ### Pré-requisitos
-- Node.js v17.x ou superior  
+- Node.js v18.x ou superior  
   [Baixe aqui](https://nodejs.org/)
 
 ### Instalação das dependências
